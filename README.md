@@ -23,11 +23,11 @@ A user enters a number and is shown a range of numbers from 1 to the number ente
 * using JavaScript library, jQuery
 * using the bootstrap styling and get familiar with the component in the stylesheet
 * using Github page and let other user to clone the application
-* Practice command line to be more familiar with console
+* practice command line to be more familiar with console
 * practice with a friendly and simple Markdown to make the README file
 * not very long coding but very good to practice to make the best look for the code using proper indentation and spacing
-* Practice with document object model
-* Practice with JavaScript specs using Mocha spec framework and Chai assertion library
+* practice with document object model
+* practice with JavaScript specs using Mocha spec framework and Chai assertion library
 
 
 
