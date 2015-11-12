@@ -27,8 +27,9 @@ A user enters a number and is shown a range of numbers from 1 to the number ente
 * practice with a friendly and simple Markdown to make the README file
 * not very long coding but very good to practice to make the best look for the code using proper indentation and spacing
 * Practice with document object model
+* Practice with JavaScript specs using Mocha spec framework and Chai assertion library
 
-> **Please make sure to be connected to the internet while using the application.**
+
 
 
 ### Legal
