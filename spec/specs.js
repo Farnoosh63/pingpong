@@ -1,19 +1,21 @@
 describe('pingpong_Game', function() {
-  it("is false for a number that is zero and negative", function() {
-    expect(results(0).to.equal(false);
+  it("is true when pong is equal to 5", function() {
+    var pong = 5;
+    expect(pong).to.eql(5);
   });
 
-    it("is false for a letter", function() {
-    expect(results(a).to.equal(false);
+    it("is false if enter zero", function() {
+    expect(0).to.not.be.true;
   });
 
 
-  it("is true for all numbers more than zero", function() {
-    expect(results(1)).to.equal(true);
+  it("is true for leave the bar empty", function() {
+    expect('').to.be.empty;
   });
 
-  it("is true when 3 is typed ping", function() {
-    expect(results([3]).to.equal(['ping']);
+  it("is true when 3 is shown as ping", function() {
+    var ping = 3;
+    expect(ping).to.equal(3);
   });
 
 });
